@@ -15,7 +15,6 @@ namespace StackUsingLinkedList
             this.top = null;
         }
 
-        //30
         internal void Push(int value)
         {
             Node node = new Node(value);
