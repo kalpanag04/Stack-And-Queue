@@ -63,7 +63,7 @@ namespace StackUsingLinkedList
                 Peek();
                 Pop();
             }
-            //this.top=null;
+            this.top=null;
         }
 
     }

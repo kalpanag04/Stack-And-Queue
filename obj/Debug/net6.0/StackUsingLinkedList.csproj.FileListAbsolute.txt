@@ -1,0 +1,15 @@
+C:\Users\Dell\Desktop\BridgeLabz\DataStructuresDemo\StackUsingLinkedList\bin\Debug\net6.0\StackUsingLinkedList.exe
+C:\Users\Dell\Desktop\BridgeLabz\DataStructuresDemo\StackUsingLinkedList\bin\Debug\net6.0\StackUsingLinkedList.deps.json
+C:\Users\Dell\Desktop\BridgeLabz\DataStructuresDemo\StackUsingLinkedList\bin\Debug\net6.0\StackUsingLinkedList.runtimeconfig.json
+C:\Users\Dell\Desktop\BridgeLabz\DataStructuresDemo\StackUsingLinkedList\bin\Debug\net6.0\StackUsingLinkedList.dll
+C:\Users\Dell\Desktop\BridgeLabz\DataStructuresDemo\StackUsingLinkedList\bin\Debug\net6.0\StackUsingLinkedList.pdb
+C:\Users\Dell\Desktop\BridgeLabz\DataStructuresDemo\StackUsingLinkedList\obj\Debug\net6.0\StackUsingLinkedList.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\BridgeLabz\DataStructuresDemo\StackUsingLinkedList\obj\Debug\net6.0\StackUsingLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\BridgeLabz\DataStructuresDemo\StackUsingLinkedList\obj\Debug\net6.0\StackUsingLinkedList.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\BridgeLabz\DataStructuresDemo\StackUsingLinkedList\obj\Debug\net6.0\StackUsingLinkedList.AssemblyInfo.cs
+C:\Users\Dell\Desktop\BridgeLabz\DataStructuresDemo\StackUsingLinkedList\obj\Debug\net6.0\StackUsingLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\BridgeLabz\DataStructuresDemo\StackUsingLinkedList\obj\Debug\net6.0\StackUsingLinkedList.dll
+C:\Users\Dell\Desktop\BridgeLabz\DataStructuresDemo\StackUsingLinkedList\obj\Debug\net6.0\refint\StackUsingLinkedList.dll
+C:\Users\Dell\Desktop\BridgeLabz\DataStructuresDemo\StackUsingLinkedList\obj\Debug\net6.0\StackUsingLinkedList.pdb
+C:\Users\Dell\Desktop\BridgeLabz\DataStructuresDemo\StackUsingLinkedList\obj\Debug\net6.0\StackUsingLinkedList.genruntimeconfig.cache
+C:\Users\Dell\Desktop\BridgeLabz\DataStructuresDemo\StackUsingLinkedList\obj\Debug\net6.0\ref\StackUsingLinkedList.dll
