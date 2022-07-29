@@ -6,4 +6,8 @@ linkedListQueue.Enqueue(56);
 linkedListQueue.Enqueue(30);
 linkedListQueue.Enqueue(70);
 linkedListQueue.Display();// this.top=this.top.next
+linkedListQueue.Dequeu();
+linkedListQueue.Dequeu();
+linkedListQueue.Dequeu();
+linkedListQueue.Display();
 Console.ReadKey();
